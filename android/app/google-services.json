@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656588937935",
+    "project_id": "connect2k24-135d3",
+    "storage_bucket": "connect2k24-135d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656588937935:android:13d876e95492cfda4735ba",
+        "android_client_info": {
+          "package_name": "com.manasmalla.event_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPQG05kkTIO_DExrA3I1ionWy8eTIiVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
